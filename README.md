@@ -1,7 +1,7 @@
 ## Olá! 👋
 ## Me chamo Breno Mendes Monteiro
 Sou Desenvolvedor de software com experiência em
-desenvolvimento Android nativo com Kotlin, Jetpack Compose.
+desenvolvimento Android nativo com Kotlin e Jetpack Compose.
 
 
           
